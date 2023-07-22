@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.row{
+	display:flex;
+	flex-direction: row;
+}
+.col-sm-1{
+	margin-left:5px;
+}
+.col-sm-2{
+	margin-top:5px;
+	margin-bottom:5px;
+/* 	text-align:center */
+/* 	text- */
+	margin-left: 50px;
+}
+.col-sm-4{
+	margin-left:300px;
+}
+.col-sm-12{
+	margin-left:600px;
+}
